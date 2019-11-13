@@ -1,5 +1,3 @@
-# 
-Continuous Control project using Deep Deterministic Policy Gradient Agents for Reinforcement Learning
 # Readme
 
 ##  Continuous Control - Deep Reinforcement Learning
